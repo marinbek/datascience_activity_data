@@ -6,7 +6,7 @@ Data from Human Activity Recognition database (found here: http://archive.ics.uc
 Generated dataset is stored as `tidy_data.txt`.
 
 Dataset contains 81 columns, first two are:
-- `subject` - ID of test subject, ranging from 1-30
+- `subject` - ID of test subject, ranging from 1-30 (there were 30 subjects altogether)
 - `activity` - Textual activity description, one of the 6 possibilities: `LAYING` `SITTING` `STANDING` `WALKING` `WALKING_DOWNSTAIRS` `WALKING_UPSTAIRS`
 
 Next 79 columns contain mean and standard deviation values of following metrics:
