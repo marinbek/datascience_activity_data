@@ -11,7 +11,7 @@ Data is processed as follows:
 4. Subject of each observation is appended as a column to the dataset (column name: `subject`)
 5. Data is tidied by grouping the whole dataset by subject and activity and calculating average value for all variables
 
-Data is described in the accompanying [codebook](./Codebook.md)
+Data is described in the accompanying [codebook](./CodeBook.md)
 
 ## Using the script
 
