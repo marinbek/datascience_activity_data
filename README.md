@@ -4,6 +4,7 @@ Tidy dataset of Human Activity Recognition Using Smartphones Data Set
 Enclosed script `run_analysis.R` takes data from "Human Activity Recognition Using Smartphones Data Set" [available here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and consolidates and cleans it for further analysis.
 
 Data is processed as follows:
+
 1. Train and Test datasets are merged into one dataset
 2. Only columns containing mean and standard deviation values are included (other columns are discarded)
 3. Activity (descriptive text) for each observation is appended as a column of the dataset (column name: `activity`)
